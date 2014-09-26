@@ -12,3 +12,4 @@
 * Testing AJAX : http://blog.revathskumar.com/2013/03/testing-jquery-ajax-with-mocha-and-sinon.html
 
 * code : http://jsbin.com/veqop/6/edit
+* slides : https://speakerdeck.com/revathskumar/testing-with-mocha
